@@ -8,3 +8,4 @@ In SecurEU we shall utilize CTFs as a pivotal educational tool, promoting them a
 Our platform is : https://commodore.csd.auth.gr:8888/
 
 This event successfully took place on May 25th at the facilities of the School of Informatics in Thessaloniki, Greece.
+![Uploading Screenshot from 2024-05-30 10-21-35.png…]()
