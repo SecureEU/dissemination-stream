@@ -2,7 +2,7 @@ Capture The Flag (CTF) competitions are exciting and informative events in the w
 
 Our platform is : https://commodore.csd.auth.gr:8888/
 
-This event successfully took place on May 25th at the facilities of the School of Informatics in Thessaloniki, Greece.
+This event successfully took place on May 25th, 2024, at the facilities of the School of Informatics in Thessaloniki, Greece.
 
 ![Screenshot from 2024-05-30 10-24-47](https://github.com/SecureEU/dissemination-stream/assets/7658241/50c1defd-8eb7-44ed-b30c-bdd18561d081)
 
