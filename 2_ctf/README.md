@@ -6,5 +6,4 @@ This event successfully took place on May 25th, 2024, at the facilities of the S
 
 ![Screenshot from 2024-05-30 10-24-47](https://github.com/SecureEU/dissemination-stream/assets/7658241/50c1defd-8eb7-44ed-b30c-bdd18561d081)
 
-
-![Screenshot from 2024-05-30 10-21-35](https://github.com/SecureEU/dissemination-stream/assets/7658241/ff728797-1672-4280-b52a-41652a3e7dda)
+![Screenshot from 2025-05-18 17-48-26](https://github.com/user-attachments/assets/272c883a-3533-4247-bf9b-c3f9ea03d08c)
